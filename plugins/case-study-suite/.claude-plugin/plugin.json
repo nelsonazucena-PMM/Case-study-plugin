@@ -1,0 +1,10 @@
+{
+  "name": "case-study-suite",
+  "version": "0.1.0",
+  "description": "TELUS Digital case study toolkit: find interview templates in Drive and generate brand-compliant single-slide case study decks from transcripts or CSV/XLSX inputs.",
+  "author": {
+    "name": "Nelson Azucena",
+    "email": "nelson.azucena@telusinternational.com"
+  },
+  "keywords": ["telus-digital", "case-study", "sales", "pptx", "interview-template"]
+}
