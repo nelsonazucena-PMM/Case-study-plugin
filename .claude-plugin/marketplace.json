@@ -1,0 +1,15 @@
+{
+  "name": "case-study-marketplace",
+  "owner": {
+    "name": "Nelson Azucena",
+    "email": "nelson.azucena@telusinternational.com"
+  },
+  "plugins": [
+    {
+      "name": "case-study-suite",
+      "source": "./plugins/case-study-suite",
+      "description": "TELUS Digital case study toolkit: template finder + single-slide builder.",
+      "version": "0.1.0"
+    }
+  ]
+}
